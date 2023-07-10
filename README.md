@@ -1,7 +1,8 @@
-<h1 align="center" style='color='pink'>
+<h1 align="center">
   <br>
-  Evelin Mariana
+  Evelin Mariana 🌸
 </h1>
+
 
 <p align="center">
   <strong>Hello Word 🌐<br>Bem-vindo(a) ao meu perfil do GitHub! 🤖</strong><br>
