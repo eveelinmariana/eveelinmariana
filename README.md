@@ -38,4 +38,4 @@
 [![GitHub eveelinmariana]( https://img.shields.io/github/followers/eveelinmariana?label=follow&style=social)](https://github.com/eveelinmariana)
 <br>Fique à vontade para entrar em contato comigo por qualquer um desses canais!
 
-![Snake animation](https://github.com/eveelinmariana/eveelinmariana/blob/output/github-contribution-grid-snake.svg)
+
